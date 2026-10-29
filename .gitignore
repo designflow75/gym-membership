@@ -1,0 +1,20 @@
+# Compiled class files
+bin/
+*.class
+
+# IDE and Editor files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# OS metadata
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# Logs
+*.log
+hs_err_pid*
